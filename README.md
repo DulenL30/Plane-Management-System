@@ -1,4 +1,4 @@
-# ✈️ Plane Management System
+# Plane Management System
 
 A comprehensive Java-based airline seat reservation system that manages aircraft seating, ticket booking, and passenger information. The system provides an interactive console interface for airline staff to handle seat reservations, cancellations, and passenger management.
 
