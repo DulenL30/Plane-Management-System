@@ -1,6 +1,3 @@
-# Plane-Management-System
-A Java-based Plane Seat Management System that allows users to buy, cancel, search, and view airplane seats. It features real-time seating plans, pricing logic, and ticket tracking with total sales reporting.
-
 # ✈️ Plane Management System
 
 A comprehensive Java-based airline seat reservation system that manages aircraft seating, ticket booking, and passenger information. The system provides an interactive console interface for airline staff to handle seat reservations, cancellations, and passenger management.
@@ -177,23 +174,3 @@ Email: john.doe@email.com
 - **Event Management**: Venue seating arrangements
 - **Educational**: Object-oriented programming demonstration
 
-## 📈 Future Enhancements
-
-- Database integration for persistent storage
-- Web-based user interface
-- Multiple aircraft support
-- Advanced reporting and analytics
-- Payment processing integration
-
-## 👥 Contributing
-
-This project demonstrates core Java programming concepts including:
-- Object-Oriented Programming (OOP)
-- File I/O operations
-- Exception handling
-- Data structures (Arrays, ArrayList)
-- User interface design
-
-## 📝 License
-
-This project is developed for educational purposes. Feel free to use and modify according to your learning needs.
